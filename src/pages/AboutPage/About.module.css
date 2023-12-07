@@ -1,0 +1,34 @@
+.about{
+    height: 100vh;
+    background-color: cornflowerblue;
+}
+.back {
+    height:50px;
+    width: 150px;
+    color: white;
+}
+.blockA {
+    margin: 40px auto;
+}
+.blockA h2{
+    text-align: center;
+    margin: 20px auto ;
+    font-size: 30px;
+    color: white;
+    font-family: "Arial Rounded MT Bold";
+}
+.aboutI {
+    width: 70%;
+    margin: 0 auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.aboutMini {
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
